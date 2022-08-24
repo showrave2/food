@@ -1,17 +1,20 @@
-body{font-family:font-family: 'Raleway', sans-serif;}
+body{font-family: 'Raleway', sans-serif;}
 
 
 
 .part-a{display: flex;
-        padding: 50px 280px;}
+       margin-bottom: 240px;}
 
 .a-written{width: 50%;
-    font-size: 50px;}
+          font-size: 50px;
+          padding-left: 270px;
+          padding-top: 150px;}
+.a-written p {
+            color:rgb(169, 164, 164);
+            font-size: 30px;}
 
-.a-written p {font-size: 30px;
-            color:rgb(169, 164, 164);}
-
-.a-pic{width: 50%;}
+.a-pic{width: 50%;
+       padding:0 270px 0 0;}
 
 
 
@@ -39,5 +42,24 @@ body{font-family:font-family: 'Raleway', sans-serif;}
 
 .b-written{width:50%;
           font-size: 30px;}
+
+
+
+.part-c{font-size: 30px;}
+
+
+
+.c-two{display: flex;}
+
+
+
+
+
+
+
+
+
+
+
           
  

@@ -1,0 +1,43 @@
+body{font-family:font-family: 'Raleway', sans-serif;}
+
+
+
+.part-a{display: flex;
+        padding: 50px 280px;}
+
+.a-written{width: 50%;
+    font-size: 50px;}
+
+.a-written p {font-size: 30px;
+            color:rgb(169, 164, 164);}
+
+.a-pic{width: 50%;}
+
+
+
+.a-button   {color: white;
+            background-image:linear-gradient(orange,red);
+            text-decoration: none;
+            padding: 15px 50px;
+            border-radius: 50px;
+            font-size: 30px;}
+
+
+#orange{color: orange;}
+
+
+
+
+
+
+.part-b{display: flex;
+        padding: 150px;
+        background-image: url(images/shapes/7.png);}
+
+.b-pic{width:50%;
+       ;}
+
+.b-written{width:50%;
+          font-size: 30px;}
+          
+ 
